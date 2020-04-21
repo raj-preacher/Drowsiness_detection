@@ -1,1 +1,0 @@
-scalingo env-set BUILDPACK_URL=https://github.com/Scalingo/multi-buildpack.git
